@@ -3,7 +3,7 @@ body {
   background-color: black;
   text-align: center;
   color: bisque;
-  background-image: url(https://static.wixstatic.com/media/bec6a2_1c563727e7fb45ce96e7d1c9c858e679~mv2.jpg);
+  background-image: url(images/office-594132_1920.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -49,7 +49,7 @@ body {
 }
 /* applys a background image to the top box. sets the location you see of the image */
 .boxheader {
-  background-image: url(/turntable-1337986_1920.jpg);
+  background-image: url(images/turntable-1337986_1920.jpg);
   background-size: cover; 
   height: 190px;
   background-position: top; 
@@ -121,7 +121,7 @@ body {
 }
 /* image set background to bottom , same image as above, but you see a different part of the image */
 .boxlinks {
-  background-image: url(/turntable-1337986_1920.jpg);
+  background-image: url(images/turntable-1337986_1920.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
